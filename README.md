@@ -1,6 +1,5 @@
 # lab0-c
 Assessing Your C Programming Skills
-Test
 
 ## Running the autograders
 
